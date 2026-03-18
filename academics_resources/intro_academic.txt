@@ -2,6 +2,8 @@ My career path hasn't been what you'd call conventional. Around 4th year of seco
 
 My aspirations were to secure a place in DT366, a level 8 Accounting and Finance degree at Dublin Institute of Technology (or Technical University Dublin). I needed 455 points to be admitted, but I completely surpassed that gaol and achieved 544 points. 
 
-I accepted to the Bachelors in Commence at Univeristy College where I graduated with a 1:1, primarilty taking modules in accounting, economics, and machine learning. These grades earned me the Stage 1 & 2 schoolarships, and, had I have gone on to complete the professional accounting exams, I would have the maximum number of exemptions possible, and managed to secure a spot on the Deloitte Touche Tohmatsu summer internship program.
+I accepted to the Bachelors in Commence at University College where I graduated with a 1:1, primarily taking modules in accounting, economics, and machine learning. These grades earned me the Stage 1 & 2 scholarships, and, had I have gone on to complete the professional accounting exams, I would have the maximum number of exemptions possible, and managed to secure a spot on the Deloitte Touche Tohmatsu summer internship program.
 
-Despite this success, I realised after the internship accounting wasn't eactly what I wanted out of my career. Much of what I loved about accounting, the double entry bookkeeping and record keeping, had been automated away by software. I realised my calling was in developing these very kind of systems.
+Despite this success, I realised after the internship accounting wasn't exactly what I wanted out of my career. Much of what I loved about accounting, the double entry bookkeeping and record keeping, was largely automated by software. I realised my calling was in developing these very kind of systems.
+
+It was at this point I took a risk and applied for a conversion masters in computer science in the UCD school of computer science. The first year couldn't be described with any other word other then intense, in a short time I had to cover nearly 4 years of computer science material in only a single year. 
